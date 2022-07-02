@@ -12,4 +12,4 @@
 - Identifying, reporting, and prioritizing bugs
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/html-essential-training-4)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/02dd641e5e22b260fb1cdde4076132d36b2892daff074bb884b907e44c5f23ab?trk=share_certificate)
